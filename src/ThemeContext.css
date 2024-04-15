@@ -1,0 +1,10 @@
+/* Добавьте стили в зависимости от того, какая тема активна */
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark {
+  background-color: #000000;
+  color: #ffffff;
+}
